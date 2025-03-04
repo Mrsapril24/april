@@ -1,16 +1,14 @@
 # april
-Hello Welcome to my world.
+Hello Welcome to my world of Data Analytics
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src=""  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 </div>
 
@@ -26,15 +24,15 @@ Hello Welcome to my world.
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me <br>Im A Data Analyst with a Background In healthcare, passionate about uncovering insights and solving problems with data . Outside of work, I enjoy the outdoors, reading, learning new things, cooking, and creating homemade skincare products.</h3>
 
 ###
 
-<p align="left">I'm Misha from dallas,Texas<br><br>- 🔭 I’m working as CNA<br>- 📚 I'm currently learning Data Analytics<br>- ⚡ In my free time I like to enjoy the outdoors and read my kindle</p>
+<p align="left">I'm Misha from dallas,Texas<br><br>- 🔭 I’m working as CNA<br>- 📚 I'm currently learning Data Analytics<br>- ⚡5 Years in Healthcare/ 10 years in WMS</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools<br>- SQL project "Coming Soon" <br>- Capstone Project "Coming Soon"<br>- Excel Project "Coming Soon"</h3>
 
 ###
 
@@ -64,7 +62,7 @@ Hello Welcome to my world.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Reach Me:<br>aprilmisha85@gmail.com<br>Linked In "Coming Soon"</h3>
 
 ###
 
@@ -73,3 +71,4 @@ Hello Welcome to my world.
 </div>
 
 ###
+
